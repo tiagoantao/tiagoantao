@@ -1,3 +1,5 @@
+Find my homepage at https://tiago.org
+
 ### Books
 
 [Fast Python](https://www.manning.com/books/fast-python) - Writing efficient Python code. Repository [here](https://github.com/tiagoantao/python-performance).
@@ -5,7 +7,6 @@
 [Bioinformatics with Python Cookbook - third edition](https://www.packtpub.com/product/bioinformatics-with-python-cookbook-third-edition/9781803236421) - Python for Bioinformatics. Repository [here](https://github.com/PacktPublishing/Bioinformatics-with-Python-Cookbook-third-edition).
 
 
-### [Homepage])(https://tiago.org)
 
 <!--
 **tiagoantao/tiagoantao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
