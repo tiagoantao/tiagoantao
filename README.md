@@ -1,4 +1,9 @@
-### Hi there 👋
+### Books
+
+[Fast Python](https://www.manning.com/books/fast-python) - Writing efficient Python code. Repository [here](https://github.com/tiagoantao/python-performance).
+
+[Bioinformatics with Python Cookbook - third edition](https://www.packtpub.com/product/bioinformatics-with-python-cookbook-third-edition/9781803236421) - Writing efficient Python code. Repository [here](https://github.com/PacktPublishing/Bioinformatics-with-Python-Cookbook-third-edition).
+
 
 <!--
 **tiagoantao/tiagoantao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +16,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
