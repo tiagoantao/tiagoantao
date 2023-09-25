@@ -1,10 +1,10 @@
 Find my homepage at https://tiago.org
 
-## High-performance articles
+**High-performance articles**
 
 You can find my articles on High-Performance Python with a dash of C and GPU programming on my free [Substack newsletter](https://tiagoantao.substack.com/)
 
-## Books
+**Books**
 
 [Fast Python](https://www.manning.com/books/fast-python) - Writing efficient Python code. Repository [here](https://github.com/tiagoantao/python-performance).
 
