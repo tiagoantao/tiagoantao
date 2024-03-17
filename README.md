@@ -2,7 +2,7 @@ Find my homepage at https://tiago.org
 
 **High-performance articles**
 
-You can find my articles on High-Performance Python and C both on CPUs and GPUs on my free [Substack newsletter](https://tiagoantao.substack.com/)
+You can find my articles on several topics on my [blog](https://stuff.tiago.org/)
 
 **Books**
 
