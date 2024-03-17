@@ -1,6 +1,6 @@
 Find my homepage at https://tiago.org
 
-**High-performance articles**
+**Articles**
 
 You can find my articles on several topics on my [blog](https://stuff.tiago.org/)
 
