@@ -6,9 +6,9 @@ You can find my articles on several topics on my [blog](https://stuff.tiago.org/
 
 **Books**
 
-[Fast Python](https://www.manning.com/books/fast-python) - Writing efficient Python code. Repository [here](https://github.com/tiagoantao/python-performance).
+[Fast Python](https://www.manning.com/books/fast-python) - Writing efficient Python code. Repository [here](https://github.com/tiagoantao/python-performance)
 
-[Bioinformatics with Python Cookbook - third edition](https://www.packtpub.com/product/bioinformatics-with-python-cookbook-third-edition/9781803236421) - Python for Bioinformatics. Repository [here](https://github.com/PacktPublishing/Bioinformatics-with-Python-Cookbook-third-edition).
+[Bioinformatics with Python Cookbook - third edition](https://www.packtpub.com/product/bioinformatics-with-python-cookbook-third-edition/9781803236421) - Python for Bioinformatics. Repository [here](https://github.com/PacktPublishing/Bioinformatics-with-Python-Cookbook-third-edition)
 
 
 
