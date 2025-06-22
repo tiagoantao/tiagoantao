@@ -2,7 +2,7 @@ Find my homepage at https://tiago.org
 
 **Articles**
 
-You can find my articles on several topics on my [blog](https://tiagoantao.substack.com/)
+You can find my articles on several topics on my [Substack](https://tiagoantao.substack.com/)
 
 **Books**
 
